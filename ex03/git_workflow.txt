@@ -1,0 +1,16 @@
+Git Workflow:
+
+1. Edit:
+   write and edit you code
+
+2. Stage:
+   Prepare modified files for snapshot
+   using git add command
+
+3. Commit:
+   Save staged changes to local history with a message explaining what you did to fellow developers
+   using git commit command 
+
+4. Push:
+   Upload local commits to GitHub.
+   using git push origin main command
