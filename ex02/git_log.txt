@@ -1,0 +1,5 @@
+commit ea73916edb6b8df1ff4ff880d9b795443c7e7789
+Author: MariamFraihat <MariamFraihat9@gmail.com>
+Date:   Sun Oct 4 02:45:15 2026 +0300
+
+    add hello.txt file
